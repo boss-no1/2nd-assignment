@@ -325,8 +325,10 @@ margin-right: 200px;
     list-style: none;
 }
 .foot-last li{
-    list-style: none;
     padding: 50px;
+}
+.fooli{
+    list-style: none;
 }
 .last{
     color: rgba(255, 255, 255, 0.60);
