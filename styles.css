@@ -362,10 +362,17 @@ line-height: normal;
     }
     .section-3{
         width: 100%;
+        padding-top: 300px;
+        flex-direction: column;
+        margin-bottom: 700px;
+    }
+    .video-body{
+        margin-top: 400px;
     }
     .section-4{
         width: 100%;
-        padding: 0;
+        padding-top: 400px;
+        margin-top: 500px;
     }
     .section-5 ul {
         padding: 30px 50px;
