@@ -321,6 +321,9 @@ display: flex;
 margin-left: 400px;
 margin-right: 200px;
 }
+.foot-ul{
+    list-style: none;
+}
 .foot-last li{
     list-style: none;
     padding: 50px;
@@ -519,6 +522,6 @@ line-height: normal;
         margin: 10px;
     }
     footer{
-        width: 500px;
+        width: 400px;
     }
 }
